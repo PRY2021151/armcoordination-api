@@ -1,0 +1,7 @@
+C:\Users\halo3\Desktop\armcoordination-api\obj\Release\netcoreapp3.1\PubTmp\Out\armcoordination-api.exe
+C:\Users\halo3\Desktop\armcoordination-api\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\halo3\Desktop\armcoordination-api\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\halo3\Desktop\armcoordination-api\obj\Release\netcoreapp3.1\PubTmp\Out\armcoordination-api.dll
+C:\Users\halo3\Desktop\armcoordination-api\obj\Release\netcoreapp3.1\PubTmp\Out\armcoordination-api.deps.json
+C:\Users\halo3\Desktop\armcoordination-api\obj\Release\netcoreapp3.1\PubTmp\Out\armcoordination-api.runtimeconfig.json
+C:\Users\halo3\Desktop\armcoordination-api\obj\Release\netcoreapp3.1\PubTmp\Out\armcoordination-api.pdb
